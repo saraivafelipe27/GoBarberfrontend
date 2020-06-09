@@ -38,4 +38,10 @@ export default createGlobalStyle`
     cursor: pointer;
   }
 
+  img {
+    border-radius: 50%;
+	width: 200px;
+	height: 200px;
+  }
+
 `;
